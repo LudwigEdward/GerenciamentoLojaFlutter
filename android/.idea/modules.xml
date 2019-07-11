@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.9.13+1/android/cloud_firestore.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.9.13+1/android/cloud_firestore.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.8.4+5/android/firebase_auth.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.8.4+5/android/firebase_auth.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.3.4/android/firebase_core.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.3.4/android/firebase_core.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-2.1.1+2/android/firebase_storage.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-2.1.1+2/android/firebase_storage.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.0.2/android/image_cropper.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.0.2/android/image_cropper.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.5.4+3/android/image_picker.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.5.4+3/android/image_picker.iml" />
+    </modules>
+  </component>
+</project>
